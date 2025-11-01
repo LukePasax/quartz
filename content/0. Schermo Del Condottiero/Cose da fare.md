@@ -1,0 +1,9 @@
+- [x] Installa e capisci l'Inter
+- [x] Installa e capisci Tag Wrangler
+- [x] Aggiungi [[Background]] innamorato
+- [x] Porta PG di mazza
+- [ ] Porta PG di Delo
+- [x] Porta pg di EMI
+- [ ] Porta PG di lampa
+- [ ] Porta prima scena Campagna
+- [ ] Setuppa Quartz (publish)

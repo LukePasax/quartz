@@ -1,0 +1,1 @@
+![[mappa-fiera-san-cagnate.png]]
