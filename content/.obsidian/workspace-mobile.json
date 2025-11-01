@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "4a023d50e453a789",
+    "type": "split",
+    "children": [
+      {
+        "id": "2756b19810335605",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac4b37352fd868bb",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-leaflet-map-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Leaflet Map"
+            }
+          },
+          {
+            "id": "3439780c1f5a6825",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025-10-21.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2025-10-21"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2a838c37305a3bb9",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "359a70dee8295e2b",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "17252fa58c190fb6",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "6d7e624f3cdb9449",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "37d1af673469c39a",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "d1917dbf015c92f1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1aff2b08468451c1",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "1. Scratchbook/Test Callout.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": false
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "79af5b9c174e882a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Brancalonia Manuale di Ambientazione 2.6.pdf",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "7e57320c3007d078",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Brancalonia Manuale di Ambientazione 2.6.pdf",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
+    }
+  },
+  "active": "3439780c1f5a6825",
+  "lastOpenFiles": [
+    "1. Scratchbook/Test Callout.md",
+    "2025-10-21.md",
+    "3. Almanacco/Regno di taglia.md",
+    "4. Enciclopedia/Background/Ambulante.md",
+    "4. Enciclopedia/Talenti/Lista/Supercazzola.md",
+    "4. Enciclopedia/Talenti/Talenti Brancaloni.md",
+    "4. Enciclopedia/Emeriticenze/Emeriticenze.md",
+    "Brancalonia Manuale di Ambientazione 2.6.pdf",
+    "Brancalonia - L'impero Randella Ancora 1.0.pdf",
+    "4. Meccaniche/Classi/Arlecchino.md"
+  ]
+}

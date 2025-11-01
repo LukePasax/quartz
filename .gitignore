@@ -4,8 +4,42 @@ node_modules
 public
 prof
 tsconfig.tsbuildinfo
-.obsidian
 .quartz-cache
 private/
 .replit
 replit.nix
+# =========================
+# Obsidian vault ignore rules
+# =========================
+
+# Cache, workspace & temp data (non serve nel repo)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/*/data.json
+.obsidian/plugins/*/manifest.json
+.obsidian/plugins/*/main.js.map
+.obsidian/plugins/*/node_modules/
+.obsidian/plugins/*/.git/
+.obsidian/plugins/*/.obsidian/
+.obsidian/plugins/*/.vscode/
+.obsidian/.DS_Store
+.obsidian/.trash/
+.obsidian/backups/
+.obsidian/updates.json
+.obsidian/plugins.json
+.obsidian/graph.json
+.obsidian/app.json
+.obsidian/cache/
+.obsidian/sync*
+.obsidian/appearance-backup.json
+.obsidian/plugins-global.json
+
+# System and temp files
+.DS_Store
+Thumbs.db
+*.log
+
+# Optional: ignore published output
+public/
+dist/
+build/

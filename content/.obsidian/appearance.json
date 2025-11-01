@@ -1,0 +1,12 @@
+{
+  "accentColor": "#ff0000",
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "showRibbon": true,
+  "cssTheme": "ITS Theme",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "S - Encoded Fonts",
+    "S - Encoded Icons"
+  ]
+}

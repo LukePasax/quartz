@@ -1,0 +1,341 @@
+{
+  "main": {
+    "id": "8448a2d7328ec1a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c40fb3bdffef9fbc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43c2242504cea614",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Enciclopedia/Personaggi e Avversari/Pagano.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Pagano"
+            }
+          },
+          {
+            "id": "4b0d41797cba5180",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_Templates/Nota - Canaglia.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Nota - Canaglia"
+            }
+          },
+          {
+            "id": "3f27e749fc940853",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "index.md"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f6f05cbf035d27dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "1bc94f1e761c01e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba80bd28169407bb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0f2459f3beaec884",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cb5c62d71cac1e58",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 337.5
+  },
+  "right": {
+    "id": "d94a432d7d62ec47",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d5164c1ef17f663",
+        "type": "tabs",
+        "dimension": 51.937984496124024,
+        "children": [
+          {
+            "id": "6b2405eaf6ac4431",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3. Il Regno/3. Il Regno.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 3. Il Regno"
+            }
+          },
+          {
+            "id": "0f70f9984921e02d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "4. Enciclopedia/Classi/Cuocomante/Alimentale di 'Nduja.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Alimentale di 'Nduja"
+            }
+          },
+          {
+            "id": "4969c30e489fd304",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bf84955a7733c378",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "4. Enciclopedia/Emeriticenze/Emeriticenze.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Emeriticenze"
+            }
+          },
+          {
+            "id": "c8e29b135074a0ce",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "4614232d34e24307",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
+            }
+          },
+          {
+            "id": "f6b9ebc88093caf9",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
+            }
+          },
+          {
+            "id": "dea40d597657b85d",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
+            }
+          },
+          {
+            "id": "9f6c3c034e388f33",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "348df327e62fda5b",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "40932ed8cab020a5",
+        "type": "tabs",
+        "dimension": 48.062015503875976,
+        "children": [
+          {
+            "id": "c70acd3f7d19e36a",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 416.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "publish:Publish changes...": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obisidian-note-linker:Note Linker": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "timelines-revamped:Insert Timeline Event": false,
+      "timelines-revamped:Insert Timeline Event (Frontmatter)": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false
+    }
+  },
+  "active": "3f27e749fc940853",
+  "lastOpenFiles": [
+    "z_Templates/Nota - Canaglia.md",
+    "index.md.md",
+    "z_Templates/Nota - Background.md",
+    "z_Templates/Nota - Asso nella Manica.md",
+    "z_Templates/Dataview - Table with manual.md",
+    "z_Templates/Dataview - Lista.md",
+    "z_Templates/Callout - Quote.md",
+    "z_Templates/Callout - Infobox Image.md",
+    "z_Templates/Callout - Aside.md",
+    "4. Enciclopedia/Background/Prelato.md",
+    "package-lock.json",
+    "1. Fogliame/Test Callout.md",
+    "4. Enciclopedia/Personaggi e Avversari/Pagano.md",
+    "4. Enciclopedia/Personaggi e Avversari/Duellante.md",
+    "4. Enciclopedia/Personaggi e Avversari/Tenutario.md",
+    "4. Enciclopedia/Personaggi e Avversari/Birro.md",
+    "z_Assets/birro.png",
+    "4. Enciclopedia/Personaggi e Avversari/Agente di Equitaglia.md",
+    "4. Enciclopedia/Personaggi e Avversari/Bobo Vez.md",
+    "4. Enciclopedia/Personaggi e Avversari/Cacciatore di Equitaglia.md",
+    "4. Enciclopedia/Personaggi e Avversari/Corrado Schwanzstucker.md",
+    "4. Enciclopedia/Personaggi e Avversari/Tagliagole.md",
+    "4. Enciclopedia/Personaggi e Avversari/Picchiere Comunale.md",
+    "z_Assets/picchiere.png",
+    "4. Enciclopedia/Personaggi e Avversari/Massimo Sforzo.md",
+    "4. Enciclopedia/Personaggi e Avversari/Dardo Maglio.md",
+    "2. Campagne/L'impero Randella Ancora/Episodio 1 - Guerre Feudali/Scena 1 - In cerca di Lelia/La Fiera di San Cagnate.md",
+    "z_Assets/massimo-sforzo.png",
+    "4. Enciclopedia/Personaggi e Avversari/Fellone.md",
+    "z_Assets/fellone.png",
+    "0. Schermo Del Condottiero/Cose da fare.md",
+    "z_Assets/lanzichenecco.png",
+    "4. Enciclopedia/Personaggi e Avversari",
+    "2. Campagne/L'impero Randella Ancora/Episodio 1 - Guerre Feudali/Scena 2 - Un Brutto Presentimento",
+    "z_Assets/porcilodromo.png",
+    "4. Enciclopedia/Bestiario/Confinato",
+    "z_Assets/confinato.png",
+    "z_Assets/midolliano.png",
+    "z_Assets/Pasted image 20251031143349.png",
+    "z_Assets/mappa-fiera-san-cagnate.png",
+    "2. Campagne/L'impero Randella Ancora/Episodio 1 - Guerre Feudali/Scena 1 - In cerca di Lelia",
+    "2. Campagne/L'impero Randella Ancora/Episodio 1 - Guerre Feudali",
+    "2. Campagne/L'impero Randella Ancora",
+    "Bande e Cricche/Amici Miei/Putifarre da Rebaudengo “Il Flabellifero”",
+    "Bande e Cricche/Amici Miei/Linguino Pastari",
+    "Bande e Cricche/Amici Miei/Orlando Damiano DanGiova",
+    "Bande e Cricche/Amici Miei/Fra Crack/Untitled.canvas",
+    "z_Templates/Untitled.canvas",
+    "Untitled.canvas"
+  ]
+}
