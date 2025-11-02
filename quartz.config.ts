@@ -23,8 +23,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "its-Draconis",
-        body: "its-Bookerly",
+        header: "Fira Sans",
+        body: "Fira Sans",
         code: "Fira Code",
       },
       colors: {
