@@ -17,15 +17,15 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "lucapasini.com/quartz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "z_Templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "its-Draconis",
+        body: "its-Bookerly",
+        code: "Fira Code",
       },
       colors: {
         lightMode: {
